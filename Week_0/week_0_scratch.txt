@@ -1,0 +1,22 @@
+binario eh igual ao sistema decimal
+
+123 - cento e vinte e tres
+|100|10|1
+|1  |2 |3 -> vc sabe que eh 123 pq sua cabeça ta condicionada ah isso, mas poderia ser simplesmente os numeros 1, 2 e 3. mas vc sabe que uma casa eh unidade, dezena, centena e assim por diante. podemos dizer que eh dessa forma também:
+
+|10^2|10^1|10^0
+|1  |2 |3      -> pois eh a base 10. a mesma coisa pra binario:
+
+2^1|2^0
+0  |0 -> entao temos que 0 eh 0, 1 eh 1, o dois é 10, o tres eh 11, o quatro eh 100 
+
+um bit eh uma lampada. pode ser zero ou 1. um byte sao 8 bits.
+
+0|0|0|0|0|0|0|0
+
+como representar agr letras?
+atribuindo um numero a ele. a letra A maiuscula eh representada pelo numero 65. entao sempre que vc digita a letra A no computador, ele armazena um padrao de 0 e 1 que representa 65.
+Esse sistema eh conhecido como ASCII.
+Por termos outras coisas pra representar, tais quais carcteres acentuados ou emojis, usamos UNICODE, um superconjunto de ASCII, ent ele n usa apenas 8 bits por caracteres, as vezes usa 16, 24, 32.
+
+Pra cor temos o RGB -> red, green, blue.
